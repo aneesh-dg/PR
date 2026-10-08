@@ -1,0 +1,10 @@
+WHAT:
+Adding the ability for customers to provide their WhatsApp number as an alternative notification method. Those who provide this alternative number shall receive the notification via email and WhatsApp.
+
+WHY:
+
+Customers have requested for the provision of receiving the notification through WhatsApp as well as email, as WhatsApp is more handy.
+
+Notes:
+
+WhatsApp notification is optional. Customers who do not provide a WhatsApp number will continue to receive notifications through email only.

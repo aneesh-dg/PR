@@ -1,0 +1,35 @@
+# Country Capital API
+
+Country Capital API is a Python API built with Flask that returns the name of a country when given the name of its capital city.
+
+## Prerequisites
+
+- Python 3.x
+- Flask
+- Uvicorn
+
+## Local Setup
+
+1. Clone the repository:
+
+   git clone <repository-url>
+
+2. Navigate into the project directory:
+
+   cd country-capital-api
+
+3. Install the required dependencies:
+
+   pip install -r requirements.txt
+
+4. Start the API using Uvicorn:
+
+   uvicorn <application-module>:<application-object>
+
+The API can then be accessed locally through the address provided by the Uvicorn server.
+
+## API Endpoint
+
+The organization also provides a microservice endpoint that can be consumed by other projects:
+
+https://example.com/country-capital/<query-params>
